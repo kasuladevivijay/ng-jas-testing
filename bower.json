@@ -1,0 +1,17 @@
+{
+  "name": "ng-jas-testing",
+  "description": "jasmine testing for angular 1.x using karma",
+  "main": "index.js",
+  "authors": [
+    "Vijay Kasuladevi <vijay.kasuladevi@ge.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/kasuladevivijay/ng-jas-testing",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
